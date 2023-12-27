@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\khudo\source\repos\server\server\server.cpp(51,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\khudo\source\repos\server\server\server.cpp(73,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  server.vcxproj -> C:\Users\khudo\source\repos\server\x64\Debug\server.exe
